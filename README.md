@@ -31,7 +31,7 @@ The data pipeline was designed to ingest, transform, and store data efficiently.
 - ETL: Visual Studio 2019 (SSIS)
 - Storage: SQL Server (Docker)
 - Layers: Data Lake and Data Warehouse
-- 
+
 ![Architecture](images/arquitectura.png)
 
 ## 🏛️ Data Model
@@ -47,7 +47,7 @@ The ETL process was developed using SQL Server Integration Services (SSIS).
 - Data extraction from source systems
 - Data transformation using lookup components
 - Data loading into the Data Warehouse
-- 
+
 ![ETL](images/etl.png)
 
 ## 🛠️ Tools
