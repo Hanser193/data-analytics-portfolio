@@ -31,12 +31,12 @@ The data pipeline was designed to ingest, transform, and store data efficiently.
 - ETL: Visual Studio 2019 (SSIS)
 - Storage: SQL Server (Docker)
 - Layers: Data Lake and Data Warehouse
-![Dashboard](images/arquitectura.png)
+![Architecture](images/arquitectura.png)
 
 ## 🏛️ Data Model
 A star schema was implemented to optimize analytical queries and reporting.
 The fact table stores vehicle registration data, while dimension tables provide descriptive attributes such as brand, model, location, and vehicle type.
-![Dashboard](images/modelo.png)
+![Data Model](images/modelo.png)
 
 ## 🔄 ETL Process
 
@@ -45,7 +45,7 @@ The ETL process was developed using SQL Server Integration Services (SSIS).
 - Data extraction from source systems
 - Data transformation using lookup components
 - Data loading into the Data Warehouse
-![Dashboard](images/etl.png)
+![ETL](images/etl.png)
 
 ## 🛠️ Tools
 
