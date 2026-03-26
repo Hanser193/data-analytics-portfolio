@@ -17,7 +17,7 @@ Marcas líderes: Toyota, Suzuki, Mazda
 
 Dashboard:
 
-![Dashboard](images/dashboard.png)
+![Dashboard](electric-vehicles-analysis-colombia/images/dashboard.png)
 
 ## 🧠 Key Insights
 - Bogotá concentra el 61.75% de los registros
@@ -32,13 +32,13 @@ The data pipeline was designed to ingest, transform, and store data efficiently.
 - Storage: SQL Server (Docker)
 - Layers: Data Lake and Data Warehouse
 
-![Architecture](images/arquitectura.png)
+![Architecture](electric-vehicles-analysis-colombia/images/arquitectura.png)
 
 ## 🏛️ Data Model
 A star schema was implemented to optimize analytical queries and reporting.
 The fact table stores vehicle registration data, while dimension tables provide descriptive attributes such as brand, model, location, and vehicle type.
 
-![Data Model](images/modelo.png)
+![Data Model](electric-vehicles-analysis-colombia/images/modelo.png)
 
 ## 🔄 ETL Process
 
@@ -48,7 +48,7 @@ The ETL process was developed using SQL Server Integration Services (SSIS).
 - Data transformation using lookup components
 - Data loading into the Data Warehouse
 
-![ETL](images/etl.png)
+![ETL](electric-vehicles-analysis-colombia/images/etl.png)
 
 ## 🛠️ Tools
 
