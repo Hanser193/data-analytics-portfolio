@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL-DataLake", "ETL-DataLake\ETL-DataLake.dtproj", "{8B5C2255-7AD9-408A-B085-FF581724358C}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL-DataWareHouse", "ETL-DataWareHouse\ETL-DataWareHouse.dtproj", "{3BE0F829-C044-43BA-A7DD-CD114F3E0FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5C2255-7AD9-408A-B085-FF581724358C}.Development|Default.ActiveCfg = Development
+		{8B5C2255-7AD9-408A-B085-FF581724358C}.Development|Default.Build.0 = Development
+		{3BE0F829-C044-43BA-A7DD-CD114F3E0FF2}.Development|Default.ActiveCfg = Development
+		{3BE0F829-C044-43BA-A7DD-CD114F3E0FF2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983384EC-D0D6-41A5-96E1-F39BE8BCA0EF}
+	EndGlobalSection
+EndGlobal
