@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
+  <diagram name="Página-1" id="SfyHOXdVC9-kb6S2M-kP">
+    <mxGraphModel dx="2213" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-10" target="7EBYjlRHxNqE9YedUOtW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="-165" y="734" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-11" value="&lt;b&gt;Archivos csv&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-13" target="7EBYjlRHxNqE9YedUOtW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_visual_studio;" vertex="1" parent="1">
+          <mxGeometry x="3.5" y="732" width="66.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-15" value="&lt;b&gt;Visual Studio 2019 (ETL)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="700" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="735" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-18" target="7EBYjlRHxNqE9YedUOtW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="3.5" y="897" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.39;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-13" target="7EBYjlRHxNqE9YedUOtW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-21" value="&lt;b&gt;BD DataLake&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-22" value="&lt;b&gt;BD DataWareHouse&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="860" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TABLAS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Numeros_de_Veh_culos_El_ctricos_Hibridos&lt;/li&gt;&lt;li&gt;municipios&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="49" y="370" width="291" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-28" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TABLAS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;vehiculos_electricos_hibridos&lt;/li&gt;&lt;li&gt;carroceria&lt;/li&gt;&lt;li&gt;clase&lt;/li&gt;&lt;li&gt;combistible&lt;/li&gt;&lt;li&gt;departamento&lt;/li&gt;&lt;li&gt;marca&lt;/li&gt;&lt;li&gt;modelo&lt;/li&gt;&lt;li&gt;municipio&lt;/li&gt;&lt;li&gt;servicio&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="151" y="909.5" width="209" height="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-30" target="7EBYjlRHxNqE9YedUOtW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-30" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-86.37" y="-30" width="135.37" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-31" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="180" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-19" y="90" as="sourcePoint" />
+            <mxPoint x="-18.680000000000007" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-35" value="&lt;b&gt;BD DataWareHouse&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFE599,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="130" y="178" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-36" value="&lt;b&gt;BD DataLake&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFE599,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="-261" y="178" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-37" value="&lt;b&gt;BD SQL SERVER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1" source="7EBYjlRHxNqE9YedUOtW-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="230" as="sourcePoint" />
+            <mxPoint x="-150" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-41" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TABLAS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;vehiculos_electricos_hibridos&lt;/li&gt;&lt;li&gt;carroceria&lt;/li&gt;&lt;li&gt;clase&lt;/li&gt;&lt;li&gt;combistible&lt;/li&gt;&lt;li&gt;departamento&lt;/li&gt;&lt;li&gt;marca&lt;/li&gt;&lt;li&gt;modelo&lt;/li&gt;&lt;li&gt;municipio&lt;/li&gt;&lt;li&gt;servicio&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="370" width="209" height="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="300" as="sourcePoint" />
+            <mxPoint x="-210" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.5" y="300" as="sourcePoint" />
+            <mxPoint x="179.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_visual_studio;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-30" width="66.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-332" y="20" as="sourcePoint" />
+            <mxPoint x="-261" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-172" y="20" as="sourcePoint" />
+            <mxPoint x="-101" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-50" value="&lt;b&gt;Archivos csv&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-51" value="&lt;b&gt;Visual Studio 2019 (ETL)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7EBYjlRHxNqE9YedUOtW-52" value="&lt;b&gt;Contenedor Docker&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-83.68" y="-55" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
