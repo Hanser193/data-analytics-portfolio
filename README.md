@@ -17,7 +17,7 @@ Marcas líderes: Toyota, Suzuki, Mazda
 
 Dashboard:
 
-<img width="981" height="546" alt="image" src="https://github.com/user-attachments/assets/b91c976c-58ce-4c2f-b665-a13dc7e05115" />
+![Dashboard](images/dashboard.png)
 
 ## 🧠 Key Insights
 - Bogotá concentra el 61.75% de los registros
@@ -31,12 +31,12 @@ The data pipeline was designed to ingest, transform, and store data efficiently.
 - ETL: Visual Studio 2019 (SSIS)
 - Storage: SQL Server (Docker)
 - Layers: Data Lake and Data Warehouse
-<img width="980" height="707" alt="image" src="https://github.com/user-attachments/assets/ab1d53e7-4226-4666-acd1-430c70659b3b" />
+![Dashboard](images/arquitectura.png)
 
 ## 🏛️ Data Model
 A star schema was implemented to optimize analytical queries and reporting.
 The fact table stores vehicle registration data, while dimension tables provide descriptive attributes such as brand, model, location, and vehicle type.
-<img width="980" height="781" alt="image" src="https://github.com/user-attachments/assets/a8456275-9507-4882-b5f1-c0f6903cc355" />
+![Dashboard](images/modelo.png)
 
 ## 🔄 ETL Process
 
@@ -45,7 +45,7 @@ The ETL process was developed using SQL Server Integration Services (SSIS).
 - Data extraction from source systems
 - Data transformation using lookup components
 - Data loading into the Data Warehouse
-<img width="1264" height="590" alt="image" src="https://github.com/user-attachments/assets/d85c440d-00f7-433c-bbe1-e0468b809793" />
+![Dashboard](images/etl.png)
 
 ## 🛠️ Tools
 
